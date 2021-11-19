@@ -18,5 +18,9 @@
   },
   "author": "Raphael Terrier @R4ph-t",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "engines": {
+    "node": "v14.17.5",
+    "npm": "7.24.2"
+  }
 }
